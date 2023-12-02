@@ -1,0 +1,7 @@
+D:\VS_2022\week name\week name\bin\Debug\week name.exe.config
+D:\VS_2022\week name\week name\bin\Debug\week name.exe
+D:\VS_2022\week name\week name\bin\Debug\week name.pdb
+D:\VS_2022\week name\week name\obj\Debug\week name.csproj.AssemblyReference.cache
+D:\VS_2022\week name\week name\obj\Debug\week name.csproj.CoreCompileInputs.cache
+D:\VS_2022\week name\week name\obj\Debug\week name.exe
+D:\VS_2022\week name\week name\obj\Debug\week name.pdb
