@@ -1,0 +1,7 @@
+D:\VS_2022\pattern 1\pattern 1\bin\Debug\pattern 1.exe.config
+D:\VS_2022\pattern 1\pattern 1\bin\Debug\pattern 1.exe
+D:\VS_2022\pattern 1\pattern 1\bin\Debug\pattern 1.pdb
+D:\VS_2022\pattern 1\pattern 1\obj\Debug\pattern 1.csproj.AssemblyReference.cache
+D:\VS_2022\pattern 1\pattern 1\obj\Debug\pattern 1.csproj.CoreCompileInputs.cache
+D:\VS_2022\pattern 1\pattern 1\obj\Debug\pattern 1.exe
+D:\VS_2022\pattern 1\pattern 1\obj\Debug\pattern 1.pdb

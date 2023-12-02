@@ -1,0 +1,7 @@
+D:\VS_2022\pattern 7\pattern 7\bin\Debug\pattern 7.exe.config
+D:\VS_2022\pattern 7\pattern 7\bin\Debug\pattern 7.exe
+D:\VS_2022\pattern 7\pattern 7\bin\Debug\pattern 7.pdb
+D:\VS_2022\pattern 7\pattern 7\obj\Debug\pattern 7.csproj.AssemblyReference.cache
+D:\VS_2022\pattern 7\pattern 7\obj\Debug\pattern 7.csproj.CoreCompileInputs.cache
+D:\VS_2022\pattern 7\pattern 7\obj\Debug\pattern 7.exe
+D:\VS_2022\pattern 7\pattern 7\obj\Debug\pattern 7.pdb

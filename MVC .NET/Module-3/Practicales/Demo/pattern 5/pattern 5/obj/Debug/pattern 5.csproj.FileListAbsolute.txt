@@ -1,0 +1,7 @@
+D:\VS_2022\pattern 5\pattern 5\bin\Debug\pattern 5.exe.config
+D:\VS_2022\pattern 5\pattern 5\bin\Debug\pattern 5.exe
+D:\VS_2022\pattern 5\pattern 5\bin\Debug\pattern 5.pdb
+D:\VS_2022\pattern 5\pattern 5\obj\Debug\pattern 5.csproj.AssemblyReference.cache
+D:\VS_2022\pattern 5\pattern 5\obj\Debug\pattern 5.csproj.CoreCompileInputs.cache
+D:\VS_2022\pattern 5\pattern 5\obj\Debug\pattern 5.exe
+D:\VS_2022\pattern 5\pattern 5\obj\Debug\pattern 5.pdb
