@@ -1,0 +1,7 @@
+D:\VS_2022\max number form 3\max number form 3\bin\Debug\max number form 3.exe.config
+D:\VS_2022\max number form 3\max number form 3\bin\Debug\max number form 3.exe
+D:\VS_2022\max number form 3\max number form 3\bin\Debug\max number form 3.pdb
+D:\VS_2022\max number form 3\max number form 3\obj\Debug\max number form 3.csproj.AssemblyReference.cache
+D:\VS_2022\max number form 3\max number form 3\obj\Debug\max number form 3.csproj.CoreCompileInputs.cache
+D:\VS_2022\max number form 3\max number form 3\obj\Debug\max number form 3.exe
+D:\VS_2022\max number form 3\max number form 3\obj\Debug\max number form 3.pdb

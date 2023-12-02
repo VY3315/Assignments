@@ -1,0 +1,7 @@
+D:\VS_2022\maximum\maximum\obj\Debug\maximum.csproj.AssemblyReference.cache
+D:\VS_2022\maximum\maximum\obj\Debug\maximum.csproj.CoreCompileInputs.cache
+D:\VS_2022\maximum\maximum\bin\Debug\maximum.exe.config
+D:\VS_2022\maximum\maximum\bin\Debug\maximum.exe
+D:\VS_2022\maximum\maximum\bin\Debug\maximum.pdb
+D:\VS_2022\maximum\maximum\obj\Debug\maximum.exe
+D:\VS_2022\maximum\maximum\obj\Debug\maximum.pdb

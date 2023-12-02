@@ -1,0 +1,7 @@
+D:\VS_2022\menu card\menu card\bin\Debug\menu card.exe.config
+D:\VS_2022\menu card\menu card\bin\Debug\menu card.exe
+D:\VS_2022\menu card\menu card\bin\Debug\menu card.pdb
+D:\VS_2022\menu card\menu card\obj\Debug\menu card.csproj.AssemblyReference.cache
+D:\VS_2022\menu card\menu card\obj\Debug\menu card.csproj.CoreCompileInputs.cache
+D:\VS_2022\menu card\menu card\obj\Debug\menu card.exe
+D:\VS_2022\menu card\menu card\obj\Debug\menu card.pdb

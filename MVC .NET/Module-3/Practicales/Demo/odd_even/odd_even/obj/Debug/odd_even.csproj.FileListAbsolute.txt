@@ -1,0 +1,7 @@
+D:\VS_2022\odd_even\odd_even\bin\Debug\odd_even.exe.config
+D:\VS_2022\odd_even\odd_even\bin\Debug\odd_even.exe
+D:\VS_2022\odd_even\odd_even\bin\Debug\odd_even.pdb
+D:\VS_2022\odd_even\odd_even\obj\Debug\odd_even.csproj.AssemblyReference.cache
+D:\VS_2022\odd_even\odd_even\obj\Debug\odd_even.csproj.CoreCompileInputs.cache
+D:\VS_2022\odd_even\odd_even\obj\Debug\odd_even.exe
+D:\VS_2022\odd_even\odd_even\obj\Debug\odd_even.pdb

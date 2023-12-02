@@ -1,0 +1,7 @@
+D:\VS_2022\grade system\grade system\bin\Debug\grade system.exe.config
+D:\VS_2022\grade system\grade system\bin\Debug\grade system.exe
+D:\VS_2022\grade system\grade system\bin\Debug\grade system.pdb
+D:\VS_2022\grade system\grade system\obj\Debug\grade system.csproj.AssemblyReference.cache
+D:\VS_2022\grade system\grade system\obj\Debug\grade system.csproj.CoreCompileInputs.cache
+D:\VS_2022\grade system\grade system\obj\Debug\grade system.exe
+D:\VS_2022\grade system\grade system\obj\Debug\grade system.pdb

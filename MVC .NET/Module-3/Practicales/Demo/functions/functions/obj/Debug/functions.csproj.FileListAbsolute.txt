@@ -1,0 +1,7 @@
+D:\VS_2022\functions\functions\bin\Debug\functions.exe.config
+D:\VS_2022\functions\functions\bin\Debug\functions.exe
+D:\VS_2022\functions\functions\bin\Debug\functions.pdb
+D:\VS_2022\functions\functions\obj\Debug\functions.csproj.AssemblyReference.cache
+D:\VS_2022\functions\functions\obj\Debug\functions.csproj.CoreCompileInputs.cache
+D:\VS_2022\functions\functions\obj\Debug\functions.exe
+D:\VS_2022\functions\functions\obj\Debug\functions.pdb
