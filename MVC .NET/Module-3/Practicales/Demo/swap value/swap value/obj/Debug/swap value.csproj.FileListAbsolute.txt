@@ -1,0 +1,7 @@
+D:\VS_2022\swap value\swap value\bin\Debug\swap value.exe.config
+D:\VS_2022\swap value\swap value\bin\Debug\swap value.exe
+D:\VS_2022\swap value\swap value\bin\Debug\swap value.pdb
+D:\VS_2022\swap value\swap value\obj\Debug\swap value.csproj.AssemblyReference.cache
+D:\VS_2022\swap value\swap value\obj\Debug\swap value.csproj.CoreCompileInputs.cache
+D:\VS_2022\swap value\swap value\obj\Debug\swap value.exe
+D:\VS_2022\swap value\swap value\obj\Debug\swap value.pdb

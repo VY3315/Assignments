@@ -1,0 +1,7 @@
+D:\VS_2022\vowels and consonant\vowels and consonant\obj\Debug\vowels and consonant.csproj.AssemblyReference.cache
+D:\VS_2022\vowels and consonant\vowels and consonant\obj\Debug\vowels and consonant.csproj.CoreCompileInputs.cache
+D:\VS_2022\vowels and consonant\vowels and consonant\bin\Debug\vowels and consonant.exe.config
+D:\VS_2022\vowels and consonant\vowels and consonant\bin\Debug\vowels and consonant.exe
+D:\VS_2022\vowels and consonant\vowels and consonant\bin\Debug\vowels and consonant.pdb
+D:\VS_2022\vowels and consonant\vowels and consonant\obj\Debug\vowels and consonant.exe
+D:\VS_2022\vowels and consonant\vowels and consonant\obj\Debug\vowels and consonant.pdb

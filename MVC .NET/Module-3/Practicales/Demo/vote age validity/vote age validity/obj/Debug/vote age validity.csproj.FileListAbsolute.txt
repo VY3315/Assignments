@@ -1,0 +1,7 @@
+D:\VS_2022\vote age validity\vote age validity\bin\Debug\vote age validity.exe.config
+D:\VS_2022\vote age validity\vote age validity\bin\Debug\vote age validity.exe
+D:\VS_2022\vote age validity\vote age validity\bin\Debug\vote age validity.pdb
+D:\VS_2022\vote age validity\vote age validity\obj\Debug\vote age validity.csproj.AssemblyReference.cache
+D:\VS_2022\vote age validity\vote age validity\obj\Debug\vote age validity.csproj.CoreCompileInputs.cache
+D:\VS_2022\vote age validity\vote age validity\obj\Debug\vote age validity.exe
+D:\VS_2022\vote age validity\vote age validity\obj\Debug\vote age validity.pdb

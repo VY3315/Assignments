@@ -1,0 +1,7 @@
+D:\VS_2022\pt\pt\bin\Debug\pt.exe.config
+D:\VS_2022\pt\pt\bin\Debug\pt.exe
+D:\VS_2022\pt\pt\bin\Debug\pt.pdb
+D:\VS_2022\pt\pt\obj\Debug\pt.csproj.AssemblyReference.cache
+D:\VS_2022\pt\pt\obj\Debug\pt.csproj.CoreCompileInputs.cache
+D:\VS_2022\pt\pt\obj\Debug\pt.exe
+D:\VS_2022\pt\pt\obj\Debug\pt.pdb
